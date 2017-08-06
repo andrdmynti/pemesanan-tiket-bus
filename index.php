@@ -148,7 +148,7 @@
 	<footer style="background:#010102;">
 	    <div class="container">
 	    	<!-- Contact us form -->
-	    	<div class="col-md-3">
+	    	<div class="col-md-4">
 	    		<div class="headline">
 	    		    <h4><font color="#FFFFFF">CONTACT US</font></h4>
 	    		</div>
@@ -177,7 +177,7 @@
 	    			</font>            
 	    		</div>
 	    	</div>
-	    	<div class="col-md-3">
+	    	<div class="col-md-4">
 	    	    <div class="headline">
 	    	        <h4><font color="#FFFFFF">TRAYEK</font></h4>
 	    	    </div>
@@ -195,20 +195,7 @@
 	    			</font>            
 	    	    </div>
 	    	</div>
-	    	<div class="col-md-3">
-	    	    <div class="headline">
-	    	        <h4><font color="#FFFFFF">PEMBAYARAN</font></h4>
-	    	    </div>
-	    	    <hr>
-	    	    <div class="content">
-	    	    	<font color="#FFFFFF">
-	    				<h5>
-	    					
-	    				</h5>
-	    			</font>            
-	    	    </div>	
-	    	</div>
-	    	<div class="col-md-3">
+	    	<div class="col-md-4">
 	    	    <div class="headline">
 	    	        <h4><font color="#FFFFFF">ABOUT US</font></h4>
 	    	    </div>
